@@ -17,5 +17,4 @@ create_project_hash
 # we've chosen our selectors correctly - selecting the project
 # projects: kickstarter.css("li.project.grid_4")
 
-# selecting the title 
-#
+# selec 
