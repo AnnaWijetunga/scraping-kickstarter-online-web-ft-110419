@@ -19,3 +19,5 @@ create_project_hash
 
 # selecting the title 
 # title: project.css("h2.bbcard_name strong a").text
+
+# selecting the image link 
