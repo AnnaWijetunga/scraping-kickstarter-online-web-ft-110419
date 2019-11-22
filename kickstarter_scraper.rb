@@ -14,10 +14,11 @@ end
 
 create_project_hash
 
-# we've chosen our selectors correctly - selecting the project
+# project
 # projects: kickstarter.css("li.project.grid_4")
 
-# selecting the title 
+# title 
 # title: project.css("h2.bbcard_name strong a").text
 
-# selecting the image link 
+# image link 
+# image link: project.css("div.project-thumbnail a img").attribute("src").value
